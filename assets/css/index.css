@@ -93,8 +93,8 @@ section {
 .themeBtn:hover,
 .themeBtn:focus-visible {
     background-color: transparent;
-    color: var(--white);
-    border-color: var(--white);
+    color: var(--gold);
+    border-color: var(--primary);
 }
 
 .themeBtn:focus-visible {
@@ -391,7 +391,7 @@ section {
 
 
 .message-sec {
-    padding: 5rem 0;
+    padding: 5rem 2rem;
 }
 
 .message-sec:nth-of-type(odd) {
@@ -562,7 +562,7 @@ section {
 
 
 .contact {
-    padding: 5rem 0;
+    padding: 5rem 2rem;
     background: var(--paper);
 }
 
@@ -586,9 +586,6 @@ section {
     margin-bottom: 1.1rem;
 }
 
-.contact-form {
-    padding: 0 0 0 2.5rem;
-}
 
 .contact-form .form-control {
     border: 1px solid var(--line);
@@ -612,7 +609,7 @@ section {
 }
 
 .contact-form .themeBtn {
-    color: #fff;
+    /* color: #fff; */
     padding: 13px 28px;
     display: inline-flex;
     align-items: center;
@@ -636,8 +633,8 @@ section {
     color: var(--gold-soft);
 }
 
-.main-banner .row{
-    
+.submit_btn p {
+    margin: 1rem 0 0;
 }
 
 

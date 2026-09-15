@@ -586,9 +586,6 @@ section {
     margin-bottom: 1.1rem;
 }
 
-.contact-form {
-    /* padding: 0 0 0 2.5rem; */
-}
 
 .contact-form .form-control {
     border: 1px solid var(--line);
